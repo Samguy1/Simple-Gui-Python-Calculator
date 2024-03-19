@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 root = tk.Tk()
 
-root.geometry("600x600")
+root.geometry("500x400")
 root.title("Calculator")
 
 myentry = tk.Entry(root, width=43, font=("Helvetica", 18))
